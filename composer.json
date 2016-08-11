@@ -1,5 +1,5 @@
 {
-    "name": "jeremy-dunn/php-fedex-api-wrapper",
+    "name": "yigitcukuren/php-fedex-api-wrapper",
     "description": "API Wrapper for Fedex web services",
     "keywords": ["shipping","fedex","soap"],
     "homepage": "https://github.com/JeremyDunn/php-fedex-api-wrapper",
